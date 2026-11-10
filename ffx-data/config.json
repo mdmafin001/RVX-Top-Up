@@ -1,7 +1,6 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": null,
   "quick": [
     {
@@ -16,5 +15,10 @@
       "label": "YouTube",
       "url": ""
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": {
+    "pop": "সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট\n১০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে 🥰"
+  }
 }
