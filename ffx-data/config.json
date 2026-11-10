@@ -2,20 +2,7 @@
   "logo": null,
   "ffBanner": null,
   "banners": null,
-  "quick": [
-    {
-      "label": "Telegram",
-      "url": "https://t.me/RVX_Top_Up_OFFICIAL_CHANNEL"
-    },
-    {
-      "label": "Join Group",
-      "url": ""
-    },
-    {
-      "label": "YouTube",
-      "url": ""
-    }
-  ],
+  "quick": null,
   "images": null,
   "prod": null,
   "texts": null
